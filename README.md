@@ -10,6 +10,7 @@ More importantly, the process for building **and testing** this agent is fully a
 Prerequisites
 
 - For building on Jenkins: https://github.com/jvalentino/jenkins-agent-docker
+- For running Jenkins use Docker Agents: https://github.com/jvalentino/example-jenkins-docker-jcasc-2
 
 # Locally
 
